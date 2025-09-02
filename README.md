@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-AG3 Mini Trust Engine is an intelligent web application that matches homeowners with the perfect contractors based on their preferences, project requirements, and trust scoring algorithms. Powered by OpenAI's GPT-4o mini, it provides personalized recommendations with detailed trust scores and reasoning.
+AG3 Mini Trust Engine is an intelligent web application that matches homeowners with the perfect contractors based on their preferences, project requirements, and trust scoring algorithms. Powered by OpenAI's GPT-4o mini, it provides personalized recommendations with detailed trust scores and reasoning..
 
 ### ✨ Key Features
 
