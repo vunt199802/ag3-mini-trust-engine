@@ -200,7 +200,7 @@ Main scoring endpoint for contractor matching.
 
 3. **Environment Setup**
    ```bash
-   cp .env.example .env.local
+   cp .env .env.local
    ```
    
    Add your OpenAI API key:
@@ -375,17 +375,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Next.js** team for the amazing React framework
 - **Heroicons** for beautiful SVG icons
 
-## 📞 Support
-
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/yourusername/AG3-Mini-Trust-Engine/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/yourusername/AG3-Mini-Trust-Engine/discussions)
-
 ---
 
 <div align="center">
 
 **Built with ❤️ using Next.js, TypeScript, and OpenAI**
-
-[⭐ Star this repo](https://github.com/yourusername/AG3-Mini-Trust-Engine) • [🐛 Report Bug](https://github.com/yourusername/AG3-Mini-Trust-Engine/issues) • [💡 Request Feature](https://github.com/yourusername/AG3-Mini-Trust-Engine/discussions)
-
 </div>
