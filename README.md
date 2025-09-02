@@ -379,7 +379,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/yourusername/AG3-Mini-Trust-Engine/issues)
 - **💡 Feature Requests**: [GitHub Discussions](https://github.com/yourusername/AG3-Mini-Trust-Engine/discussions)
-- **📧 Contact**: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
