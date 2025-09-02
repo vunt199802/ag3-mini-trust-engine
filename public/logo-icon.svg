@@ -1,0 +1,42 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="28" fill="url(#bgGradient)" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Main shield icon -->
+  <g transform="translate(30, 30)">
+    <!-- Shield -->
+    <path d="M0 -12L-8 -16L-16 -12V-2C-16 4 -8 8 -8 8S0 4 0 -2V-12Z" 
+          fill="url(#iconGradient)" 
+          stroke="#ffffff" 
+          stroke-width="1.5"/>
+    
+    <!-- Checkmark -->
+    <path d="M-6 -2L-4 0L-2 -2" 
+          stroke="#ffffff" 
+          stroke-width="2" 
+          fill="none" 
+          stroke-linecap="round" 
+          stroke-linejoin="round"/>
+    
+    <!-- AI circuit pattern -->
+    <g opacity="0.4">
+      <circle cx="-8" cy="-8" r="1" fill="#ffffff"/>
+      <circle cx="-12" cy="-6" r="0.5" fill="#ffffff"/>
+      <circle cx="-4" cy="-6" r="0.5" fill="#ffffff"/>
+      <line x1="-8" y1="-8" x2="-12" y2="-6" stroke="#ffffff" stroke-width="0.5"/>
+      <line x1="-8" y1="-8" x2="-4" y2="-6" stroke="#ffffff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>
